@@ -3,7 +3,8 @@ from pydantic import BaseModel
 
 from backend.extraction.entity_extractor import extract_entities
 from backend.extraction.logger import save_log
-from backend.app import calculate_risk
+from backend.extraction.risk_scorer import calculate_risk
+
 
 from typing import Dict, Any
 
