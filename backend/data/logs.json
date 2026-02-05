@@ -1,0 +1,106 @@
+[
+  {
+    "message": "Send \u20b95000 to testuser@upi",
+    "extracted_data": {
+      "upi_ids": [
+        "testuser@upi"
+      ],
+      "phone_numbers": [],
+      "urls": [],
+      "timestamp": "2026-02-01T22:19:09.449845"
+    },
+    "risk_score": 3,
+    "risk_level": "MEDIUM"
+  },
+  {
+    "message": "Please click this link https://fakebank-login.in",
+    "extracted_data": {
+      "upi_ids": [],
+      "phone_numbers": [],
+      "urls": [
+        "https://fakebank-login.in"
+      ],
+      "timestamp": "2026-02-01T22:42:03.274248"
+    },
+    "risk_score": 3,
+    "risk_level": "MEDIUM"
+  },
+  {
+    "message": "Please click this link https://fakebank-login.in",
+    "extracted_data": {
+      "upi_ids": [],
+      "phone_numbers": [],
+      "urls": [
+        "https://fakebank-login.in"
+      ],
+      "timestamp": "2026-02-01T22:51:42.822036"
+    },
+    "risk_score": 3,
+    "risk_level": "MEDIUM"
+  },
+  {
+    "message": "Send money to abc@upi immediately",
+    "extracted_data": {
+      "upi_ids": [
+        "abc@upi"
+      ],
+      "phone_numbers": [],
+      "urls": [],
+      "timestamp": "2026-02-01T22:51:55.069597"
+    },
+    "risk_score": 3,
+    "risk_level": "MEDIUM"
+  },
+  {
+    "message": "Send \u20b95000 to testuser@upi",
+    "extracted_data": {
+      "upi_ids": [
+        "testuser@upi"
+      ],
+      "phone_numbers": [],
+      "urls": [],
+      "timestamp": "2026-02-01T23:18:53.185430"
+    },
+    "risk_score": 3,
+    "risk_level": "MEDIUM"
+  },
+  {
+    "message": "Please click this link https://fakebank-login.in",
+    "extracted_data": {
+      "upi_ids": [],
+      "phone_numbers": [],
+      "urls": [
+        "https://fakebank-login.in"
+      ],
+      "timestamp": "2026-02-01T23:19:28.938694"
+    },
+    "risk_score": 3,
+    "risk_level": "MEDIUM"
+  },
+  {
+    "message": "Please click this link https://fakebank-login.in",
+    "extracted_data": {
+      "upi_ids": [],
+      "phone_numbers": [],
+      "urls": [
+        "https://fakebank-login.in"
+      ],
+      "timestamp": "2026-02-05T10:23:58.833317"
+    },
+    "risk_score": 3,
+    "risk_level": "MEDIUM"
+  },
+  {
+    "message": "Please click this link https://fakebank-login.in",
+    "extracted_data": {
+      "upi_ids": [],
+      "phone_numbers": [],
+      "urls": [
+        "https://fakebank-login.in"
+      ],
+      "timestamp": "2026-02-05T10:24:00.113214"
+    },
+    "risk_score": 3,
+    "risk_level": "MEDIUM"
+  }
+]
